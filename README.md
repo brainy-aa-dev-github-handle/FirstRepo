@@ -5,5 +5,3 @@ Started learning Git bash ...\n
 Branch name just changed from 'main' to 'master'
 # Online Edition
 This commit is created to mean that it is made online via the website, and not by Git Bash.
-
-4/22/2023
